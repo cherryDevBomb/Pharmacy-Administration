@@ -1,6 +1,6 @@
 # Pharmacy Administration
 
-💊 Console Application for administrationg a Pharmacy
+💊 Console Application for administrating a Pharmacy
 
 C++ Uni Assignment 
 
